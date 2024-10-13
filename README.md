@@ -78,3 +78,14 @@ $$
 ### Note:
 
 All of the above equations are **non-dimensional**.
+
+## Results:
+
+|                                   | Density Ratio | Temperature Ratio | Pressure Ratio | Mach Number |
+|-----------------------------------|---------------|-------------------|----------------|-------------|
+| Exact Analytical Solution          | 0.634         | 0.833             | 0.528          | 1.000       |
+| Non-Conservative Form (30 Points)  | 0.639         | 0.836             | 0.534          | 0.999       |
+| Non-Conservative Form (60 Points)  | 0.638         | 0.835             | 0.533          | 1.000       |
+| Conservative Form (30 Points)      | 0.650         | 0.840             | 0.546          | 0.982       |
+| Conservative Form (60 Points)      | 0.638         | 0.835             | 0.533          | 0.999       |
+
