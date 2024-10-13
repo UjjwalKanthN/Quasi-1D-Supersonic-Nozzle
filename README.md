@@ -3,7 +3,7 @@
 Code to solve the **Quasi 1D supersonic nozzle flow equations** using the **MacCormack Method**. Implementing both the **conservative** and **non-conservative** forms of the governing equations and also perform a **grid dependence test**.
 
 <p align="center">
-  <img src="./images/nozzle.png" alt="Nozzle Schematic" />
+  <img src="./results/nozzle.png" alt="Nozzle Schematic" />
 </p>
 <p align="center"><b>Figure 1:</b> Isentropic Nozzle Flow Schematic from *CFD Basics and Applications* by J. D. Anderson</p>
 
